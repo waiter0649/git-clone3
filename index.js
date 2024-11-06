@@ -1,0 +1,1 @@
+cdonsolke.log('version1')
